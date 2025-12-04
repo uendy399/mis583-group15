@@ -1,6 +1,6 @@
 # nsysu-mis-dl-deepracer
 2025 NSYSU Winter Semster Final Project Challenge : AWS Deep acer
-# AWS DeepRacer - Forever Raceway 優化專案
+# AWS DeepRacer - Forever Raceway Final Challenge
 
 ![DeepRacer](https://img.shields.io/badge/AWS-DeepRacer-orange)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
