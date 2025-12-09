@@ -6,6 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![SAC](https://img.shields.io/badge/Algorithm-SAC-green)
 
+![result](https://raw.githubusercontent.com/uendy399/mis583-group15/refs/heads/main/result.png)
+
 針對 AWS DeepRacer Forever Raceway 賽道優化的強化學習專案，採用 Soft Actor-Critic (SAC) 演算法，透過精心設計的獎勵函數實現高效的自動駕駛策略。
 
 ## 📊 性能表現
